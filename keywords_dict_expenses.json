@@ -1,0 +1,18 @@
+{
+    "Bills & Utilities": ["sparkle", "parking", "metergy", "bpy", "petro", "bill", "gas"], 
+    "Health & Fitness": ["mount sina", "gym", "goodlife", "clinic", "pharmacy", "lab", "hospital", "fitbit"], 
+    "Food & Dining": ["jollibee", "subway", "coffee", "pastry", "tim hortons", "eaton", "eatons", "pizza", "mcdonald", "kfc", "quiznos"], 
+    "Shopping": ["dollarama", "shopper", "amzn", "supermarket", "amazon", "iqbal", "costco", "coco fresh", "carter", "food basic", "cob", "oriental", "walmart", "superstore", "foodland", "sobeys"], 
+    "Loan": ["loan", "nslsc", "repayment", "refinance", "mortgage"], 
+    "Entertainment": ["nintendo", "ab cbn", "bright pic", "netflix", "spotify", "youtube", "playstation"], 
+    "Investment": ["mutual fund", "securities", "wealthsimple", "edward jones"], 
+    "Other Expenses": ["transfer", "remitly", "visa", "toronto catholi", "tlm catering", "centurion", "tfr", "paypal"], 
+    "Fees & Charges": ["fee", "nsf"],  
+    "Financial": ["life", "ins", "policy", "premium", "insurance"], 
+    "Other Expenses (Bank Withdrawal)": ["withdraw", "withdrawal"], 
+    "Gifts & Donations": ["gift", "go fund", "salvation", "charity", "donation"], 
+    "Home": ["rent", "ikea", "bed", "home"], 
+    "Pets": ["grooming", "petsmart", "veterinary", "pet", "vet"], 
+    "Taxes": ["rev can", "canada", "ccra", "tax"], 
+    "Travel": ["expedia", "air", "flight", "rail", "transport"]
+}

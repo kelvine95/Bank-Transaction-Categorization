@@ -1,0 +1,6 @@
+{
+    "Government Income": ["canada", "gc", "cra", "gst", "cerb", "disability", "ei", "cpp", "child", "social", "veteran", "oas"], 
+    "Employment Income": ["pay", "payroll", "wage", "salary"], 
+    "Other Income": ["msp", "tfr", "rebate"], 
+    "Other Income (Reversed)": ["rev"]
+}
